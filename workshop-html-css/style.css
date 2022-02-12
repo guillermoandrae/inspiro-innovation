@@ -1,0 +1,68 @@
+body {
+    border-top: 15px solid orange;
+    font-family: "Droid Serif";
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#container {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.title {
+    font-family: Montserrat;
+}
+
+hr {
+    margin: 10em 0;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 1em;
+}
+
+h2 {
+   font-size: 2em;
+}
+
+h2 a {
+    border-bottom: 1px dotted #c4661f;
+    color: #c4661f;
+    text-decoration: none;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+#skills table {
+    width: 100%;
+}
+
+#skills td {
+    text-align: center;
+}
+
+#social-media {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#social-media li {
+    margin-bottom: 1em;
+}
+
+#social-media a {
+    background: cornflowerblue;
+    color: #fff;
+    font-family: Montserrat;
+    font-size: .7em;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
